@@ -5,5 +5,4 @@ I'm Gultekin from  **Turkey**, currently living in  **Antwerpen, Belgium.**
 
 - 🔭 I’m currently working on *something cool* 😉
 - 🌱 I’m currently learning **HTML,CSS,JS**
-- 👨 Pronouns: he/him
 - ⛏ Interest: **UI UX**
