@@ -5,4 +5,4 @@ I'm Gultekin from  **Turkey**, currently living in  **Antwerpen, Belgium.**
 
 - 🔭 I’m currently working on *something cool* 😉
 - 🌱 I’m currently learning **HTML,CSS,JS**
-- ⛏ Interest: **UI,UX,Project Management,**
+- ⛏ Interest: **UI & UX Design, Project Management, Software**
