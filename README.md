@@ -1,48 +1,45 @@
-# (project name)
+# Hi I'm Gultekin ![wave-hand](/img/wave.gif)
 
-<!-- describe your project -->
+**_I am a guy who loves tech, sees himself as a product enthusiast, and
+constantly enjoys learning and creating something new._**
 
-## Getting Started
+![footer](/img/footer.png)
 
-<!-- a guide to using this repository -->
+## About me
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+- Based in Temse, Belgium 🌍
+- Extremely proactive.
+- Realistic thinker has an endless desire to improve.
+- Perfectionist.
 
-## Code Quality Checks
+## Currently learning
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+|                                            |                                             |
+| :----------------------------------------: | :-----------------------------------------: |
+|      ![React](/img/react-colored.svg)      |      [React](https://react.dev/learn)       |
+|        ![Git](/img/git-colored.svg)        |       [Git](https://git-scm.com/docs)       |
+| ![JavaScript](/img/javascript-colored.svg) | [JavaScript](https://www.w3schools.com/js/) |
 
-## Continuous Integration (CI)
+There is a huge community and I'm excited about being a little part of this 🚀
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+## I already have some knowledge about
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+![Figma](/img/figma-colored.svg)
+![Adobe Creative Cloud](img/adobe-creative-cloud-colored.svg)
+![HTML5](img/html5-colored.svg) ![CSS3](img/css3-colored.svg)
+![SASS](img/sass-colored.svg) ![TailwindCSS](/img/tailwind-colored.svg)
+![Wordpress](/img/wordpress-colored.svg)
 
-## Repo Setup
+## Interests
 
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Go to _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+- Pixel perfect webdesign 🧑‍🎨
+- Swimming 🏊
+- Deepdiving 🤿
+- Motocross 🏍️
+- Psychology 🧠
+
+## Reach me
+
+[E-mail](mailto:gltkn.brl@gmail.com)
+
+[Linkedin](https://www.linkedin.com/in/gultekinbirol)
