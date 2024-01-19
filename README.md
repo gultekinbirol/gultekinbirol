@@ -1,7 +1,7 @@
 # Hi I'm Gultekin ![wave-hand](/img/wave.gif)
 
-***I am a guy who loves tech, sees himself as a product enthusiast,
-and constantly enjoys learning and creating something new.***
+**_I am a guy who loves tech, sees himself as a product enthusiast, and
+constantly enjoys learning and creating something new._**
 
 ![footer](/img/footer.png)
 
@@ -14,11 +14,11 @@ and constantly enjoys learning and creating something new.***
 
 ## Currently learning
 
-|                                                  |                                            |
-|:------------------------------------------------:|:------------------------------------------:|
-| ![React](/img/react-colored.svg)                 | [React](https://react.dev/learn)           |
-| ![Git](/img/git-colored.svg)                     | [Git](https://git-scm.com/docs)            |
-| ![JavaScript](/img/javascript-colored.svg)       | [JavaScript](https://www.w3schools.com/js/)|
+|                                            |                                             |
+| :----------------------------------------: | :-----------------------------------------: |
+|      ![React](/img/react-colored.svg)      |      [React](https://react.dev/learn)       |
+|        ![Git](/img/git-colored.svg)        |       [Git](https://git-scm.com/docs)       |
+| ![JavaScript](/img/javascript-colored.svg) | [JavaScript](https://www.w3schools.com/js/) |
 
 There is a huge community and I'm excited about being a little part of this 🚀
 
@@ -26,10 +26,8 @@ There is a huge community and I'm excited about being a little part of this 🚀
 
 ![Figma](/img/figma-colored.svg)
 ![Adobe Creative Cloud](img/adobe-creative-cloud-colored.svg)
-![HTML5](img/html5-colored.svg)
-![CSS3](img/css3-colored.svg)
-![SASS](img/sass-colored.svg)
-![TailwindCSS](/img/tailwind-colored.svg)
+![HTML5](img/html5-colored.svg) ![CSS3](img/css3-colored.svg)
+![SASS](img/sass-colored.svg) ![TailwindCSS](/img/tailwind-colored.svg)
 ![Wordpress](/img/wordpress-colored.svg)
 
 ## Interests
